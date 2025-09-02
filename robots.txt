@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://vectraithtech.com/sitemap.xml
